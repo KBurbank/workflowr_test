@@ -9,3 +9,7 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+My name is Kendra Burbank. I teach at the University of Chicago.
+
+I have a research file about [teeth](teeth.html)
